@@ -40,7 +40,7 @@
         "title": {
           "type": "text",
           "settings": {
-            "text": "<h1>Customise ton fatbike.</h1>",
+            "text": "<h1>Les essentiels de ton fatbike</h1>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
